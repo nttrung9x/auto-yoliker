@@ -20,8 +20,7 @@ use visual studio to open - read and re-build this
 * [Facebook Api](https://developers.facebook.com/) - facebook api and private fb api
 * [xNet.dll](https://github.com/X-rus/xNet) - a Library use to make a http request
 * [NewtonSoft.Json.dll](https://github.com/JamesNK/Newtonsoft.Json) - a Library use to read fb api data
-* [Captchas Solve Services] - capmonter | 2captcha | anti-captcha
- 
+* [Captchas Solve Services] - (https://captcha69.com/)captcha69.com
 ## Authors
 
 * **Nguyen Dac Tai** - *Coding - Supporter - Api analysis* - [Facebook](https://www.facebook.com/nguyen.dactaiqn/)
